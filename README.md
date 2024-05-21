@@ -6,7 +6,11 @@ Hi there! I'm a rising senior at Virginia Tech majoring in Computer Science with
 
 ## Skills
 
-- **Programming Languages:** Java, Python, Ruby
+- **Strongest Programming Languages:** Java, Python
+- **Other Skills** PASCAL, RUST, RACKET, C, DATABASE MANAGEMENT, ASSEMBLY, KOTLIN, 
+ANDROID STUDIO, XML, HTML, CSS, SQL, AMAZON EC2 CLOUD SERVERS (AWS), ADVANCED 
+DATA STRUCTURES AND ALGORITHMS, DATA AND ALG. THEORY, TEAMWORK, PROBLEM
+SOLVING, TYPING, AND COMMUNICATION. 
 - **Experience:** 
   - 3 years of coding experience
   - Strong backend development skills
