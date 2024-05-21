@@ -18,7 +18,7 @@ Hi there! I'm a rising senior at Virginia Tech majoring in Computer Science with
 
 ## Projects
 
-Here are a few highlights of my projects, most projects I cannot post due to academic integrity with Virginia Tech.
+Here are a few highlights of my projects, most projects I cannot post publicly on GitHub due to academic integrity with Virginia Tech.
 
 - **MyMovieList:** MyMovieList is a full-stack web application designed for movie enthusiasts to create and manage personalized movie lists. In this project, I focused primarily on front-end development, ensuring an intuitive and engaging user experience. The project utilized a variety of technologies including MySQL Workbench for database management, Docker for containerization, and JavaScript, HTML, and CSS for the front-end development. This experience allowed me to enhance my skills in front-end technologies while collaborating with a team to integrate the back-end functionalities seamlessly.
 - **Linear Cryptanalysis on S-Box:** This project explores the application of linear cryptanalysis techniques on an S-Box, a critical component of many symmetric key encryption algorithms. Through the analysis of linear approximations, the project aims to identify potential weaknesses in the S-Box's cryptographic properties, offering insights into its resistance against linear attacks.
