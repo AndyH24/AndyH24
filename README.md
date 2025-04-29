@@ -2,23 +2,24 @@
 
 ## About Me
 
-Hi there! I'm a rising senior at Virginia Tech majoring in Computer Science with a minor in Cybersecurity. With a passion for coding and problem-solving, I'm on the lookout for a CO-OP opportunity in Spring 2025 and a full-time position post-graduation.
+I'm a senior at Virginia Tech majoring in Computer Science with a minor in Cybersecurity.
 
 ## Skills
 
-- **Strongest Programming Languages:** Java, Python
+- **Strongest Programming Languages:** Java, Python, SQL
 - **Other Skills:** PASCAL, RUST, RACKET, C, DATABASE MANAGEMENT, ASSEMBLY, KOTLIN, 
-ANDROID STUDIO, XML, HTML, CSS, SQL, AWS, ADVANCED 
+ANDROID STUDIO, XML, HTML, CSS, AWS, ADVANCED 
 DATA STRUCTURES AND ALGORITHMS, DATA AND ALG. THEORY, TEAMWORK, PROBLEM
 SOLVING, TYPING, AND COMMUNICATION. 
 - **Experience:** 
-  - 3 years of coding experience
+  - 4 years of coding experience
   - Strong backend development skills
-  - Some experience with web and mobile development
+  - Experience with web and mobile development
+  - Experience with cryptography
 
 ## Experience
 
-- **Teacher's Assistant** | Virginia Tech, Computer Science Department | Spring 2024
+- **Teacher's Assistant** | Virginia Tech, Computer Science Department | Spring 2024, Fall 2024, Spring 2025
 
 ## Projects
 
